@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/artem/Projects/test-task-VK/build_asan/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

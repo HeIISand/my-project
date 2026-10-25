@@ -19,5 +19,11 @@ int main(int argc, char* argv[]) {
         return 0;
     }
 
-    return 0;
+    if (argc == 1) {
+        msgfmt::ParsedResult res = msgfmt::parse(input);
+        std::cout << msgfmt::to_json(res) << "\n";
+        return 0;
+    }
+
+    return 2;
 }
