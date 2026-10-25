@@ -1,0 +1,7 @@
+.git
+.gitignore
+.ghreport-cache
+ghreport
+README.md
+*_test.go
+.DS_Store
