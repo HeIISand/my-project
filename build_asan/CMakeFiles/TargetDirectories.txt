@@ -1,5 +1,0 @@
-/Users/artem/Projects/test-task-VK/build_asan/CMakeFiles/msgfmt.dir
-/Users/artem/Projects/test-task-VK/build_asan/CMakeFiles/msgfmt_tests.dir
-/Users/artem/Projects/test-task-VK/build_asan/CMakeFiles/test.dir
-/Users/artem/Projects/test-task-VK/build_asan/CMakeFiles/edit_cache.dir
-/Users/artem/Projects/test-task-VK/build_asan/CMakeFiles/rebuild_cache.dir

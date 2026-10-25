@@ -1,1 +1,0 @@
-/usr/bin/c++ -fsanitize=address,undefined -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/msgfmt.dir/src/main.cpp.o CMakeFiles/msgfmt.dir/src/msgfmt.cpp.o -o msgfmt
